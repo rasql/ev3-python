@@ -12,6 +12,7 @@ Welcome to EV3 Python's documentation!
    
    intro/intro
    brick/brick
+   motor/motor
 
 
 

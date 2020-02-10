@@ -12,5 +12,3 @@ for sound in emotions:
 for sound in numbers:
     file = eval('SoundFile.'+sound)
     brick.sound.file(file, 100)
-
-

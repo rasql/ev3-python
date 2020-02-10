@@ -17,14 +17,19 @@ This program associates 3 button presses with 3 different colors:
 Sound
 -----
 
-This program uses the 4 buttons to change volume and frequency
+This program uses the 4 buttons to change volume and frequency.
+
+* LEFT/RIGHT - change volume from 0 to 100 in increments of 10
+* UP/DOWN - change frequency in increments of 10
 
 .. literalinclude:: sound.py
 
-This file places sound files into two lists:
+This program places a couple of sound files into two lists:
 
 * emotions
 * numbers
+
+Inside a loop they are played in sequence.
 
 .. literalinclude:: sound2.py
 
@@ -38,6 +43,14 @@ This program displays image files and their name on the screen, during 1 second.
 This program writes a new line of text to screen, every second.
 
 .. literalinclude:: display2.py
+
+
+Battery
+-------
+
+This program displays the battery voltage and current during 5 seconds.
+
+.. literalinclude:: battery.py
 
 
 
