@@ -20,6 +20,10 @@ to use Python on your EV3
 SSH
 ---
 
+Click in the EV3DEV device browser to connect to the EV3
+
+You can connect to the SSH terminal of the EV3::
+
     (base) user@MacBook-Air getting_started % ssh robot@ev3dev.local
     The authenticity of host 'ev3dev.local (fe80::16:53ff:fe40:3dbd%en6)' can't be established.
     ECDSA key fingerprint is SHA256:sNNNlUWTtDtWX0CbCLcC83h8Yohuql2x2f6elfXKf+c.

@@ -11,6 +11,7 @@ Welcome to EV3 Python's documentation!
    :caption: Contents:
    
    intro/intro
+   brick/brick
 
 
 
