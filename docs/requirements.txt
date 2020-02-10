@@ -1,1 +1,2 @@
 pybricks
+python-ev3dev2
